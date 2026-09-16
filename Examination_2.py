@@ -8,3 +8,5 @@
 # นักเรียนเขียนโค้ดต่อจากบรรทัดนี้
 a = int(input())
 b = int(input())
+A = puint("A is greater") int(input(A > B)
+or B = puint("B is greater or equal") int(input(A <= B)
