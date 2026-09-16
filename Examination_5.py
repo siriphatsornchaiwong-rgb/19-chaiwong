@@ -7,8 +7,6 @@
 
 
 # นักเรียนเขียนโค้ดต่อจากบรรทัดนี้
-Password = input("Enter password: ")
-print("รหัสผ่าน")
-int = input("String")
-print("Pass") 
-if len(Password) >= 8 else print("Too Short")
+unit = int(input(50 <= 0))
+unit = int(input(100 <=0))
+unit = int(input(100 >0))
