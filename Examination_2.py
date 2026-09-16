@@ -4,8 +4,8 @@
 # Output: พิมพ์ "A is greater" หาก A > B หรือ "B is greater or equal" หาก A <= B
 # ==========================================
 
-
-int(input(A > B)
-    A = puint("A is greater")
-or int(input(A <= B)
- B = puint("B is greater or equal")
+# นักเรียนเขียนโค้ดต่อจากบรรทัดนี้
+int(input("A > B"))
+A = (print("A is greater"))
+int(input("A <= B"))
+B = (print("B is greater or equal"))
