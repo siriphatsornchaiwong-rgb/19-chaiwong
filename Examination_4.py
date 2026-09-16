@@ -6,4 +6,7 @@
 
 
 # นักเรียนเขียนโค้ดต่อจากบรรทัดนี้
-color = input()
+color = input("Stop") in print("red")
+color = input("Slow") in print("yellow")
+color = input("Go") in print("green")
+color = input("Invalid") in print("กรณีอื่นๆ")
