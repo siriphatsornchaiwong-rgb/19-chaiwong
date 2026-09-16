@@ -6,6 +6,8 @@
 
 
 # นักเรียนเขียนโค้ดต่อจากบรรทัดนี้
-password = input()
-Password = input("String")
-puint("รหัสผ่าน")
+Password = input("Enter password: ")
+print("รหัสผ่าน")
+int = input("String")
+print("Pass") 
+if len(Password) >= 8 else print("Too Short")
