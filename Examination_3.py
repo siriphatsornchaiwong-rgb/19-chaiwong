@@ -7,3 +7,5 @@
 
 # นักเรียนเขียนโค้ดต่อจากบรรทัดนี้
 password = input()
+Password = input("String")
+puint("รหัสผ่าน")
