@@ -5,8 +5,7 @@
 # ==========================================
 
 
-# นักเรียนเขียนโค้ดต่อจากบรรทัดนี้
-A = puint("A is greater") 
 int(input(A > B)
-or B = puint("B is greater or equal") 
-int(input(A <= B)
+    A = puint("A is greater")
+or int(input(A <= B)
+ B = puint("B is greater or equal")
